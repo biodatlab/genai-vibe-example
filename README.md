@@ -1,2 +1,9 @@
-# genai-vibe-example
-PRD and Claude.md Example with Claude Code (for Mahidol Harvard Hackathon)
+## Developing Ideas with GenAI: Vibe Coding & Spec-Driven Development
+
+This is an example `prd.md` and `claude.md` for generating a project. You can copy the prompt from
+`prompt.md` in Claude Code and then generate the application in Claude Code.
+
+
+## Example screenshot of an app
+
+<img src="assets/screenshot.jpg" alt="Alt text" width="500" />
