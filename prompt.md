@@ -174,15 +174,17 @@ repetitions, next_review_date
 ---
 
 ## Environment Variables Needed
+
+```
 GEMINI_API_KEY=your_key_here
 SUPABASE_URL=your_url
 SUPABASE_ANON_KEY=your_key
 JWT_SECRET=random_secret
 USE_DUMMY_OTP=true
+```
 
 ---
 
 Start by generating the complete file structure, then implement each component
 fully with no placeholder TODOs. Prioritize the case interaction screen
 (3-panel layout + chat + AI streaming) as the core UX.
-```
